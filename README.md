@@ -1,1 +1,1 @@
-# nginx by kunal
+# nginx
