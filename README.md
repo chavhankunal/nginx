@@ -1,3 +1,3 @@
-# nginx for omkar
+# nginx for kunal
 kunal 
 vaibhav
